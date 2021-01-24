@@ -1,2 +1,2 @@
 # Python-Utilities
-Microscripts written in Python to do some tasks which I found repeating
+Scripts written in Python to do tasks which helps in simplifying certain bulk tasks
